@@ -1,6 +1,6 @@
-# Canvas explorations
+# Todo App
 
-A simple Todo App buit with ClojureScript, Reagent and Reframe. 
+A simple Todo App built with ClojureScript, Reagent and Reframe. 
 
 
 ## Getting started
