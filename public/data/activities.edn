@@ -1,0 +1,10 @@
+[{:id #uuid "f6653a81-0157-4f24-8292-0dd802e1c156"
+  :title "Activity 1"}
+ {:id #uuid "9ef732f0-2758-4f84-96cc-cbc42c671247"
+  :title "Activity 2"}
+ {:id #uuid "03142940-7966-4aa4-906a-0206a85bf5e0"
+  :title "Activity 3"}
+ {:id #uuid "eb89965c-9cf6-4d47-b283-10035b4b0032"
+  :title "Activity 4"}
+ {:id #uuid "d8cf2825-8443-4bcf-9f39-ffbb75c88119"
+  :title "Activity 5"}]
